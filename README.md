@@ -1,5 +1,5 @@
-NAOHand 🤖✋
-Real-time Hand Gesture Recognition on the NAO Humanoid Robot using MediaPipe and OpenCV
+# NAOHand 🤖✋
+** Real-time Hand Gesture Recognition on the NAO Humanoid Robot using MediaPipe and OpenCV
 
 Python NAOqi OpenCV MediaPipe
 
